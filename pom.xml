@@ -96,14 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>MWA-Releases_Repo</name>
-	      <url>http://54.210.16.46:8081/repository/MWA-Release_Repo/</url>
+	      <url>http://50.19.162.183:8081/repository/MWA-Release_Repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>MWA-Snapshot_Repo</name>
-	      <url>http://54.210.16.46:8081/repository/MWA-Snapshot_Repo/</url>
-	    </snapshotRepository>
+	      <url>http://50.19.162.183:8081/repository/MWA-Snapshot_Repo/>
 	    
 	</distributionManagement>
 	
