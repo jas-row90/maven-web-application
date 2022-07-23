@@ -95,7 +95,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>MWA-Releases_Repo</name>
+	      <name>MWA-Release_Repo</name>
 	      <url>http://50.19.162.183:8081/repository/MWA-Release_Repo/</url>
 	    </repository>
 	    
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>Tesla-web-application</finalName>
 		
 		<plugins>
 			<plugin>
